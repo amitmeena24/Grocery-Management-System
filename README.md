@@ -55,21 +55,9 @@ user: admin
 
 password: admin123
 
+**Demo - Deployed over infinityfree**
+https://grocery-management-system.epizy.com/login.php
 
-** \*\*Also Deploy our project on web host infinityfree\*\ **
-Our Website link https://grocery-management-system.epizy.com/
-
-
-
-**Members:**
-
-Amit Meena - LIT2019052
-
-Vijay Pratap - LIT2019015
-
-Keshav Kumar - LIT2019055
-
-Vinay Chaudhary - LIT2019041
 
 
 
