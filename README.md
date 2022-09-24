@@ -55,8 +55,8 @@ user: admin
 
 password: admin123
 
-**Demo - Deployed over infinityfree**
-https://grocery-management-system.epizy.com/login.php
+**Demo - Deployed over infinityfree** :-
+https://grocery-management-system.epizy.com/
 
 
 
